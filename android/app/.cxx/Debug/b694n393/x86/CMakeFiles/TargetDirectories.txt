@@ -1,0 +1,2 @@
+/home/tech/Documents/MY PROJECT/baringo-staff-monitor-main/android/app/.cxx/Debug/b694n393/x86/CMakeFiles/edit_cache.dir
+/home/tech/Documents/MY PROJECT/baringo-staff-monitor-main/android/app/.cxx/Debug/b694n393/x86/CMakeFiles/rebuild_cache.dir

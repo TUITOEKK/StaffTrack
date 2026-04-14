@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796083786066",
+    "project_id": "stafftreport-7229f",
+    "storage_bucket": "stafftreport-7229f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796083786066:android:8ffcdb429aad0d8fc52a8b",
+        "android_client_info": {
+          "package_name": "com.example.staff_performance_mapping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC68SVAcSqqWKrrZmZEP7LJTLnMHwWFrq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
