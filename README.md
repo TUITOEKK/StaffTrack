@@ -37,9 +37,7 @@ Built for logistics teams, sales agents, field officers, technicians, and distri
 - Route history and movement logs  
 - Push notifications  
 - Secure Firebase authentication  
-- Image upload and field reports  
-- Battery optimized background tracking  
-- Dark mode support  
+- Image upload and field reports   
 - Clean and responsive UI  
 
 ---
@@ -67,7 +65,7 @@ Built for logistics teams, sales agents, field officers, technicians, and distri
 
 | Dashboard | Task Management | Live Tracking |
 |---|---|---|
-| Clean analytics | Assign and monitor tasks | Real time employee movement |
+| Clean analytics | Assign and monitor tasks | Real time employee location capture|
 
 </div>
 
@@ -85,7 +83,7 @@ Built for logistics teams, sales agents, field officers, technicians, and distri
 - Firebase Cloud Messaging
 - Geolocator
 - Hive / SQLite
-- Provider / Riverpod / Bloc
+- Provider 
 
 ---
 
@@ -106,18 +104,3 @@ Built for logistics teams, sales agents, field officers, technicians, and distri
 - Google Maps Integration
 
 ---
-
-# Architecture
-
-```bash
-lib/
-├── core/
-├── services/
-├── models/
-├── controllers/
-├── repositories/
-├── screens/
-├── widgets/
-├── utils/
-├── offline/
-└── main.dart
