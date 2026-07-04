@@ -6,6 +6,12 @@ Smart field workforce tracking built with Flutter and Firebase.
 
 Track employee movement, assign tasks, monitor field activity, and sync data offline with a fast and clean mobile experience.
 
+<div align="center">
+  <br />
+      <img src="assets/readme/hero.png" alt="Project Banner">
+    </a>
+  <br />
+
 <img src="https://img.shields.io/badge/Flutter-3.x-blue?style=for-the-badge&logo=flutter" />
 <img src="https://img.shields.io/badge/Firebase-Backend-orange?style=for-the-badge&logo=firebase" />
 <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-success?style=for-the-badge" />
