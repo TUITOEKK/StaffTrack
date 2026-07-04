@@ -8,7 +8,7 @@ Track employee movement, assign tasks, monitor field activity, and sync data off
 
 <div align="center">
   <br />
-      <img src="assets/readme/hero.png" alt="Project Banner">
+      <img src="assets/images/bannerimg.png">
     </a>
   <br />
 
